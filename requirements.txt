@@ -1,0 +1,18 @@
+# Core Data Manipulation and Computation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Financial Market Data Ingestion
+yfinance>=0.2.30
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Interactive Web Application Dashboard
+streamlit>=1.28.0
+
+# Testing Framework
+pytest>=7.0.0
+
+# Note: sqlite3 and datetime are standard library modules included with Python
